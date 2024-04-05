@@ -1,7 +1,6 @@
 {
   "name": "typescript-practice",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
@@ -14,5 +13,6 @@
   },
   "dependencies": {
     "@types/node": "^20.12.4"
-  }
+  },
+  "description": ""
 }
